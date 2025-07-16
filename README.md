@@ -66,18 +66,5 @@ Here's your complete 20-week roadmap from absolute beginner to building impressi
 
 **Start today:**
 
-bash
-
-mkdir ai-portfolio
-
-cd ai-portfolio
-
-git init
-
-echo "# AI Portfolio Journey - Started 2025-07-16" >> README.md
-
-git add .
-
-git commit -m "Begin AI journey"
 
 **By December 2025, you'll have 8-10 strong projects demonstrating complete AI skills progression!**
