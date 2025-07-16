@@ -7,37 +7,31 @@
 
 
 Here's your complete 20-week roadmap from absolute beginner to building impressive AI portfolio projects, starting today (July 16, 2025). Each phase includes mini-projects and concrete deliverables:
-🚀 Complete 20-Week Roadmap
-##Phase 1: Foundations (Weeks 1-4)
-Week	Focus	Mini-Projects	Deliverable
-W1 (Jul 16-22)	Python Essentials	CLI calculator, Text adventure game	GitHub repo with 7 scripts
-W2 (Jul 23-29)	Data Handling	Movie analyzer, COVID visualizer	Pandas notebook
-W3 (Jul 30-Aug 5)	Math for AI	Image filters, Matrix ops	NumPy notebook
-W4 (Aug 6-12)	Git & GitHub	Portfolio setup, Collaboration	Organized GitHub profile
-##Phase 2: Machine Learning (Weeks 5-8)
-Week	Focus	Mini-Projects	Deliverable
-W5 (Aug 13-19)	Scikit-learn	Iris classifier, Spam detector	Model training notebook
-W6 (Aug 20-26)	Feature Engineering	House price predictor	Preprocessing pipeline
-W7 (Aug 27-Sep 2)	Model Evaluation	Diabetes risk analyzer	Metrics report
-W8 (Sep 3-9)	Deployment	Streamlit app, Flask API	Live demo
-##Phase 3: Deep Learning (Weeks 9-12)
-Week	Focus	Mini-Projects	Deliverable
-W9 (Sep 10-16)	Neural Networks	MNIST classifier	PyTorch script
-W10 (Sep 17-23)	CNN Fundamentals	Cat vs dog classifier	CNN model (85%+ acc)
-W11 (Sep 24-30)	Transfer Learning	Plant disease detector	Fine-tuned ResNet
-W12 (Oct 1-7)	NLP Basics	Sentiment analyzer	Hugging Face pipeline
-##Phase 4: Advanced Projects (Weeks 13-16)
-Week	Focus	Project	Deliverable
-W13 (Oct 8-14)	RAG Systems	Document Q&A Assistant	LangChain + Pinecone app
-W14 (Oct 15-21)	Computer Vision	Real-Time Object Tracker	YOLO + OpenCV
-W15 (Oct 22-28)	MLOps	Model Lifecycle Pipeline	MLflow/DVC project
-W16 (Oct 29-Nov 4)	Generative AI	Content Generator	Fine-tuned LLM
-##Phase 5: Portfolio Polish (Weeks 17-20)
-Week	Focus	Activities
-W17 (Nov 5-11)	Documentation	Project wikis, Demo videos
-W18 (Nov 12-18)	Deployment	Dockerize apps, Hugging Face Spaces
-W19 (Nov 19-25)	Optimization	Model quantization, Benchmarking
-W20 (Nov 26-Dec 2)	Showcase	Portfolio website, Case studies
+🚀 AI Portfolio Builder: 20-Week Roadmap (2025)
+===============================================
+
+| Week | Dates | Phase | Focus Area | Mini-Projects & Activities | Deliverables | Branch Strategy |
+| --- | --- | --- | --- | --- | --- | --- |
+| 1 | Jul 16-22 | Foundations | Python Essentials | CLI calculator, User profile script, Weather adviser, Multiplication trainer, Geometry helper, Contact manager, Text adventure game | GitHub repo with 7 Python scripts | `feature/week1-python` → `develop` |
+| 2 | Jul 23-29 | Foundations | Data Handling (Pandas) | Movie data analyzer, COVID-19 trend visualizer, Data cleaning pipeline, Basic EDA notebook | Jupyter notebook with Pandas analysis | `feature/week2-pandas` → `develop` |
+| 3 | Jul 30-Aug 5 | Foundations | Math for AI (NumPy) | Image filter app, Matrix operations, Statistical analysis, Geometric transformations | NumPy operations notebook | `feature/week3-numpy` → `develop` |
+| 4 | Aug 6-12 | Foundations | Git & GitHub Mastery | Portfolio README, Collaborative exercise, Issue tracking, Branch management | Organized GitHub profile with 3+ repos | `feature/week4-git` → `develop` → `main` (first release) |
+| 5 | Aug 13-19 | ML Core | Scikit-learn Basics | Iris classifier, Email spam detector, Model evaluation metrics, Cross-validation implementation | Model training notebook with evaluation | `feature/week5-sklearn` → `develop` |
+| 6 | Aug 20-26 | ML Core | Feature Engineering | Housing price predictor, Customer segmentation, Feature selection, Pipeline creation | Preprocessing pipeline code | `feature/week6-features` → `develop` |
+| 7 | Aug 27-Sep 2 | ML Core | Model Evaluation | Diabetes risk analyzer, Model comparison dashboard, Hyperparameter tuning, Confusion matrix visualization | Evaluation metrics report | `feature/week7-evaluation` → `develop` |
+| 8 | Sep 3-9 | ML Core | Deployment Basics | Streamlit house price app, Flask API endpoint, Model serialization, Cloud testing (Render) | Live demo on Streamlit Cloud | `feature/week8-deployment` → `develop` → `main` (release v1.0) |
+| 9 | Sep 10-16 | Deep Learning | Neural Networks | MNIST digit classifier, Fashion item recognizer, Basic ANN implementation, Activation experiments | PyTorch/TF training script | `feature/week9-nn` → `develop` |
+| 10 | Sep 17-23 | Deep Learning | CNN Fundamentals | Cat vs dog classifier, Art style transfer, Convolution visualization, Data augmentation | CNN model with ≥85% accuracy | `feature/week10-cnn` → `develop` |
+| 11 | Sep 24-30 | Deep Learning | Transfer Learning | Food recognition app, Plant disease detector, Fine-tuning experiment, Feature extraction | Fine-tuned ResNet model | `feature/week11-transfer` → `develop` |
+| 12 | Oct 1-7 | Deep Learning | NLP Basics | Tweet sentiment analyzer, Simple chatbot, Text preprocessing, Embedding visualization | Hugging Face pipeline | `feature/week12-nlp` → `develop` → `main` (release v2.0) |
+| 13 | Oct 8-14 | Advanced | RAG Systems | Document Q&A assistant, Knowledge base setup, Retrieval optimization, Evaluation with RAGAS | LangChain app with Pinecone/FAISS | `feature/week13-rag` → `develop` |
+| 14 | Oct 15-21 | Advanced | Computer Vision | Real-time object tracker, YOLO implementation, OpenCV integration, Performance optimization | YOLO + OpenCV implementation | `feature/week14-cv` → `develop` |
+| 15 | Oct 22-28 | Advanced | MLOps | Model lifecycle pipeline, DVC data versioning, MLflow tracking, Basic monitoring setup | MLflow/DVC tracked project | `feature/week15-mlops` → `develop` |
+| 16 | Oct 29-Nov 4 | Advanced | Generative AI | AI content generator, LLM fine-tuning, Prompt engineering, Safety evaluation | Fine-tuned LLM on custom data | `feature/week16-generative` → `develop` → `main` (release v3.0) |
+| 17 | Nov 5-11 | Polish | Documentation | Project wikis, Demo videos, Architecture diagrams, Tutorial creation | 3 project wikis + 2 demo videos | `feature/week17-docs` → `develop` |
+| 18 | Nov 12-18 | Polish | Deployment | Dockerize 2 projects, Hugging Face Spaces deployment, CI/CD pipeline, Performance testing | Dockerized apps on Hugging Face | `feature/week18-deploy` → `develop` |
+| 19 | Nov 19-25 | Polish | Optimization | Model quantization, Pruning experiment, Benchmarking, Cost analysis | Performance benchmark report | `feature/week19-optimize` → `develop` |
+| 20 | Nov 26-Dec 2 | Polish | Portfolio Showcase | Personal portfolio website, Project case studies, LinkedIn update, Video presentation |
 
 ##📚 Weekly Resource Plan
 * Learning: 10-12 hrs/week (mix of videos + hands-on)
