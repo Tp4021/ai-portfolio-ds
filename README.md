@@ -6,7 +6,8 @@
 
 
 
-Here's your complete 20-week roadmap from absolute beginner to building impressive AI portfolio projects, starting today (July 16, 2025). Each phase includes mini-projects and concrete deliverables:
+###Here's your complete 20-week roadmap from absolute beginner to building impressive AI portfolio projects, starting today (July 16, 2025). Each phase includes mini-projects and concrete deliverables:
+
 🚀 AI Portfolio Builder: 20-Week Roadmap (2025)
 ===============================================
 

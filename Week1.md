@@ -113,7 +113,6 @@ if choice == "1":
 ```
 ### Repository Structure
 ```text
-text
 /python-foundations
 ├── .gitignore
 ├── README.md
