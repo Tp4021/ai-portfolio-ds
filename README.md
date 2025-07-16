@@ -33,25 +33,51 @@ Here's your complete 20-week roadmap from absolute beginner to building impressi
 | 19 | Nov 19-25 | Polish | Optimization | Model quantization, Pruning experiment, Benchmarking, Cost analysis | Performance benchmark report | `feature/week19-optimize` → `develop` |
 | 20 | Nov 26-Dec 2 | Polish | Portfolio Showcase | Personal portfolio website, Project case studies, LinkedIn update, Video presentation |
 
-##📚 Weekly Resource Plan
-* Learning: 10-12 hrs/week (mix of videos + hands-on)
-* Tools:
-    * Python (weeks 1-4)
-    * Scikit-learn (weeks 5-8)
-    * PyTorch/TensorFlow (weeks 9-12)
-    * LangChain/MLOps tools (weeks 13+)
-* Platforms:
-    * Kaggle Learn (weeks 1-8)
-    * Fast.ai (weeks 9-12)
-    * Hugging Face Courses (weeks 13+)
-##📌 Critical Milestones
-1. Aug 12: First ML model deployed
-2. Sep 9: CNN project completed
-3. Oct 7: NLP pipeline built
-4. Nov 4: Advanced RAG system
-5. Dec 2: Portfolio ready for job applications
-##💡 Pro Tips
-1. Daily Habit: Commit code every day (even small fixes)
-2. Progressive Difficulty:
-3. Show Growth: Keep early projects visible to demonstrate progress
-4. Community: Join 1 AI Discord server (e.g., Hugging Face) for help
+📚 **Weekly Resource Plan**
+
+-   **Learning:** 10-12 hrs/week (mix of videos + hands-on)
+-   **Tools:**
+
+-   Python (weeks 1-4)
+-   Scikit-learn (weeks 5-8)
+-   PyTorch/TensorFlow (weeks 9-12)
+-   LangChain/MLOps tools (weeks 13+)
+
+-   **Platforms:**
+
+-   [Kaggle Learn](https://kaggle.com/learn) (weeks 1-8)
+-   [Fast.ai](https://course.fast.ai/) (weeks 9-12)
+-   [Hugging Face Courses](https://huggingface.co/learn) (weeks 13+)
+
+📌 **Critical Milestones**
+
+1.  **Aug 12:** First ML model deployed
+2.  **Sep 9:** CNN project completed
+3.  **Oct 7:** NLP pipeline built
+4.  **Nov 4:** Advanced RAG system
+5.  **Dec 2:** Portfolio ready for job applications
+
+💡 **Pro Tips**
+
+1.  **Daily Habit:** Commit code every day (even small fixes)
+2.  **Progressive Difficulty:**
+3.  **Show Growth:** Keep early projects visible to demonstrate progress
+4.  **Community:** Join 1 AI Discord server (e.g., Hugging Face) for help
+
+**Start today:**
+
+bash
+
+mkdir ai-portfolio
+
+cd ai-portfolio
+
+git init
+
+echo "# AI Portfolio Journey - Started 2025-07-16" >> README.md
+
+git add .
+
+git commit -m "Begin AI journey"
+
+**By December 2025, you'll have 8-10 strong projects demonstrating complete AI skills progression!**
